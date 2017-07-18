@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon like CLI app",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marygeorge/bamazon.git"
+  },
+  "author": "mary",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "inquirer":"^3.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/marygeorge/bamazon/issues"
+  },
+  "homepage": "https://github.com/marygeorge/bamazon#readme"
+}
